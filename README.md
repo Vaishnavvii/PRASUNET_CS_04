@@ -2,8 +2,8 @@ This project implements a basic keylogger in Python that records and logs keystr
 
 Features:
 
-Capture and log keystrokes in real-time.
+1. Capture and log keystrokes in real-time.
 
-Save logged keystrokes to a text file (keylog.txt).
+2. Save logged keystrokes to a text file (keylog.txt).
 
-Simple and lightweight implementation using the keyboard library.
+3. Simple and lightweight implementation using the keyboard library.
